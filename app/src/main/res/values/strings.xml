@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Guess The  Flag</string>
+    <string name="start_call">Let\'s Go!!!</string>
+    <string name="string_start">Let\'s Start!!!</string>
+</resources>
